@@ -38,14 +38,15 @@ public class CharacterListItem : MonoBehaviour {
         yield return www;
         imageComponent.sprite = Sprite.Create(www.texture, new Rect(0, 0, www.texture.width, www.texture.height), new Vector2(0, 0));
         imageComponent.preserveAspect = true;
+        // Animator animator = imageComponent.GetComponent<Animator>();
+        
+
         // Color color = imageComponent.color;
         // color.a = 1f;
         // color.r = 1f;
         // color.g = 1f;
         // color.b = 1f;
         // imageComponent.color = color;
-        Animator animator = imageComponent.GetComponent<Animator>();
-        animator.StartPlayback();
       }
   }
 

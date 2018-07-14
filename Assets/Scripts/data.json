@@ -1,0 +1,795 @@
+{
+  "records": [
+    {
+      "id": "recBIHL3k3MT9PzKV",
+      "fields": {
+        "Name": "Captain Ruzo",
+        "Images": [
+          {
+            "id": "attcMn10lGXq0ybUh",
+            "url": "https://dl.airtable.com/lHYiczISTb2jKJBbNmd1_mscXm9A.png",
+            "filename": "mscXm9A.png",
+            "size": 454208,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/0lyf8KvMRhmplOhJyxrQ_small_mscXm9A.png",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/B1vkKXi8SPWoG4kQndht_large_mscXm9A.png",
+                "width": 512,
+                "height": 727
+              },
+              "full": {
+                "url": "https://dl.airtable.com/XkciesWRoynRhruPr0Ps_full_mscXm9A.png",
+                "width": 599,
+                "height": 850
+              }
+            }
+          }
+        ],
+        "Scenes": [
+          "recDiWSWXPasaAk3q"
+        ],
+        "Type": "NPC",
+        "Description": "Citywatch Captain Ruzo deGrey is a 37 years old male human.\n\nHe is missing his right arm.\n\nHe stands 182cm (5'11\") tall and has a regular build.",
+        "Factions": [
+          "rec9QzzU8QqqF7piS",
+          "recp6O5rBAVe8wbsy"
+        ],
+        "Locations": [
+          "recjiv8rthGn7WuJA",
+          "reckj28Y02ihkgujf"
+        ],
+        "Strength": 16,
+        "Dexterity": 10,
+        "Constitution": 12,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 10,
+        "Initiative": 10,
+        "Current Hitpoints": 52,
+        "Armor Class": 18,
+        "Monster": [
+          "recf8P1w1vxAaPVei"
+        ],
+        "Passive Perception": 0,
+        "Strength Modifier": 3,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 1,
+        "Intelligence Modifier": 0,
+        "Charisma Modifier": 0,
+        "Wisdom Modifier": 0,
+        "HPPercent": 89.65517241379311,
+        "AC": 18,
+        "Monster AC": [
+          17
+        ],
+        "Max HP": [
+          58
+        ],
+        "Monster HP": [
+          58
+        ]
+      },
+      "createdTime": "2018-05-28T03:00:26.000Z"
+    },
+    {
+      "id": "rec5xZvz8mAqpPdCK",
+      "fields": {
+        "Name": "Umrag Stoneshaper",
+        "Images": [
+          {
+            "id": "att5SwEahtdUG5mOh",
+            "url": "https://dl.airtable.com/chdoogCStS4L3b5fIJ8n_image.png",
+            "filename": "image.png",
+            "size": 336231,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/5ssqQMSzQHmD9vZVCo7m_small_image.png",
+                "width": 28,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/Tfz9HBvTeqw3CEY93uKm_large_image.png",
+                "width": 510,
+                "height": 663
+              },
+              "full": {
+                "url": "https://dl.airtable.com/aLs8CULTLiSQEVp5I2GA_full_image.png",
+                "width": 510,
+                "height": 663
+              }
+            }
+          }
+        ],
+        "Scenes": [
+          "recDiWSWXPasaAk3q"
+        ],
+        "Type": "NPC",
+        "Description": "\nDue to her wisdom, she also reluctantly plays the role of judge when called upon.\n\nHigh stat: wisdom\n\nLow stat: charisma\n\nRelationships:\n\nHouse Kunathar - tenuous - conflict of interest\nTine: revered\nTine Construction guild - revered\n",
+        "Factions": [
+          "rec9QzzU8QqqF7piS"
+        ],
+        "Locations": [
+          "recjiv8rthGn7WuJA",
+          "rec94uEtaSNzDV1yf"
+        ],
+        "Strength": 10,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 12,
+        "Wisdom": 18,
+        "Charisma": 8,
+        "Initiative": 11,
+        "Current Hitpoints": 6,
+        "Max Hitpoints": 15,
+        "Background": "Umrag Stoneshaper, Mother of Tine, is an ancient dwarf who uses her magic to shape stone. She leads all construction projects of buildings, fortifications, mines, and monuments.\n\nBond: Tine is her pride and joy. She will protect it as a mother would.",
+        "Monster": [
+          "recXF48q1qdYiZH4R"
+        ],
+        "Roleplay Mannerisms": "gentle, calm, slow, deliberate, patient, honest, wise, direct, quiet.",
+        "Passive Perception": 4,
+        "Strength Modifier": 0,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 0,
+        "Intelligence Modifier": 1,
+        "Charisma Modifier": -1,
+        "Wisdom Modifier": 4,
+        "HPPercent": 40,
+        "AC": [
+          13
+        ],
+        "Monster AC": [
+          13
+        ],
+        "Max HP": 15,
+        "Monster HP": [
+          27
+        ]
+      },
+      "createdTime": "2018-05-28T02:58:34.000Z"
+    },
+    {
+      "id": "recEKH9XydRFxFkYs",
+      "fields": {
+        "Name": "Mayor Oliver Commonbrook",
+        "Images": [
+          {
+            "id": "attsUJbyn5UANBeN6",
+            "url": "https://dl.airtable.com/165sgY7RTxWDGW1zeGci_image.png",
+            "filename": "image.png",
+            "size": 538901,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/MkYcdfmRQanF3wbDMHMj_small_image.png",
+                "width": 23,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/plJYtwaTRQiVOapWSyes_large_image.png",
+                "width": 512,
+                "height": 811
+              },
+              "full": {
+                "url": "https://dl.airtable.com/pfzou75TVyrEWHLOl0KE_full_image.png",
+                "width": 710,
+                "height": 1125
+              }
+            }
+          }
+        ],
+        "Type": "NPC",
+        "Description": "Oliver Commonbrook is a 29 years old male human knight.\nHe has long, wavy, silver hair and brown eyes.\nHe has rough chocolate skin.\nHe stands 152cm (4'11\") tall and has a regular build.\nHe has a triangular, common face with a very short fu manchu moustache.\nHe has a high-pitched voice.\nHe is deaf from the right ear.",
+        "Factions": [
+          "recp6O5rBAVe8wbsy",
+          "rec9QzzU8QqqF7piS"
+        ],
+        "Strength": 12,
+        "Dexterity": 12,
+        "Constitution": 12,
+        "Intelligence": 12,
+        "Wisdom": 9,
+        "Charisma": 12,
+        "Monster": [
+          "rec5M80hAf36yzjs5"
+        ],
+        "Passive Perception": 0,
+        "Strength Modifier": 1,
+        "Dexterity Modifier": 1,
+        "Constitution Modifier": 1,
+        "Intelligence Modifier": 1,
+        "Charisma Modifier": 1,
+        "Wisdom Modifier": 0,
+        "HPPercent": 0,
+        "AC": [
+          18
+        ],
+        "Monster AC": [
+          18
+        ],
+        "Max HP": [
+          52
+        ],
+        "Monster HP": [
+          52
+        ]
+      },
+      "createdTime": "2018-05-28T08:33:12.000Z"
+    },
+    {
+      "id": "recRzx1BNhgBKMKXU",
+      "fields": {
+        "Name": "Berinon de Mowbray",
+        "Images": [
+          {
+            "id": "attzcVDi8afig1BuG",
+            "url": "https://dl.airtable.com/hMptBTmfTF2KAHjWpWwk_image.png",
+            "filename": "image.png",
+            "size": 1487969,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/54w0O9A0RmecAfOiigkQ_small_image.png",
+                "width": 48,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/AA7ktPxWQM63LYHmrFjY_large_image.png",
+                "width": 678,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/gaBfZAdSGyLftb1icp9Q_full_image.png",
+                "width": 1029,
+                "height": 777
+              }
+            }
+          }
+        ],
+        "Type": "NPC",
+        "Description": "Berinon de Mowbray is a 79 years old male human historian who works for the Arcane Arts\n\nHe has silky, pockmarked, white skin. He stands 177cm (5'9\") tall and has a thin build.",
+        "Factions": [
+          "rechHCCv7ZkLkqm5i"
+        ],
+        "Locations": [
+          "recjiv8rthGn7WuJA",
+          "recDKsWh35fwCCboO"
+        ],
+        "Related Characters": [
+          "recSH0m8Ixj4Kktki"
+        ],
+        "Strength": 8,
+        "Dexterity": 8,
+        "Constitution": 8,
+        "Intelligence": 18,
+        "Wisdom": 12,
+        "Charisma": 12,
+        "Summaries": [
+          "reclu7ejZrKXrIjWY"
+        ],
+        "Monster": [
+          "recEcanUyJSjWVw8t"
+        ],
+        "Passive Perception": 1,
+        "Strength Modifier": -1,
+        "Dexterity Modifier": -1,
+        "Constitution Modifier": -1,
+        "Intelligence Modifier": 4,
+        "Charisma Modifier": 1,
+        "Wisdom Modifier": 1,
+        "HPPercent": 0,
+        "AC": [
+          12
+        ],
+        "Monster AC": [
+          12
+        ],
+        "Max HP": [
+          40
+        ],
+        "Monster HP": [
+          40
+        ]
+      },
+      "createdTime": "2018-05-28T08:33:44.000Z"
+    },
+    {
+      "id": "recM4esQwHMVzTOa6",
+      "fields": {
+        "Name": "Giovanni DiAngelo",
+        "Images": [
+          {
+            "id": "attQfJCwSdV20NxHB",
+            "url": "https://dl.airtable.com/GKXzVyQNqYRXMDGllikg_image.png",
+            "filename": "image.png",
+            "size": 601608,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/18Uyp2w4QNOKk17h1B2Q_small_image.png",
+                "width": 26,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/VKm6n9WGRbqnuJQV0Jkf_large_image.png",
+                "width": 512,
+                "height": 710
+              },
+              "full": {
+                "url": "https://dl.airtable.com/6EGMkBsgTVOMnhJdFm18_full_image.png",
+                "width": 530,
+                "height": 735
+              }
+            }
+          }
+        ],
+        "Scenes": [
+          "recDiWSWXPasaAk3q"
+        ],
+        "Type": "NPC",
+        "Description": "Husband of Alexis DiAngelo. Member of The Claw.\n\nWants to kill Fish Joseppi for gambling away his money and sleeping with his wife.\n",
+        "Factions": [
+          "rechYQ5m7zN04md8I"
+        ],
+        "Locations": [
+          "recjiv8rthGn7WuJA"
+        ],
+        "Related Characters": [
+          "recvwMz7WCuhnuHZs"
+        ],
+        "Strength": 10,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 10,
+        "In Combat": true,
+        "Current Hitpoints": 49,
+        "Relationship": [
+          "recwyHB9HgQlzmK9P",
+          "recjQm3NU2rBaCF33"
+        ],
+        "Monster": [
+          "recAzZzUPJQAExixA"
+        ],
+        "Passive Perception": 0,
+        "Strength Modifier": 0,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 0,
+        "Intelligence Modifier": 0,
+        "Charisma Modifier": 0,
+        "Wisdom Modifier": 0,
+        "HPPercent": 59.756097560975604,
+        "AC": [
+          15
+        ],
+        "Monster AC": [
+          15
+        ],
+        "Max HP": [
+          82
+        ],
+        "Monster HP": [
+          82
+        ]
+      },
+      "createdTime": "2018-05-28T09:08:21.000Z"
+    },
+    {
+      "id": "recINuw51IAYDaiHV",
+      "fields": {
+        "Name": "Alexis DiAngelo",
+        "Images": [
+          {
+            "id": "attcsN6nsoqKCCKYJ",
+            "url": "https://dl.airtable.com/hisZgISTRaZzJkX784aG_image.png",
+            "filename": "image.png",
+            "size": 625245,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/kx1ulQKhSBGgTzpGZ11b_small_image.png",
+                "width": 24,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/6glIpPu4SriQZp7REnOS_large_image.png",
+                "width": 512,
+                "height": 770
+              },
+              "full": {
+                "url": "https://dl.airtable.com/Ee0wRxM6RpG0Z3LNdXSV_full_image.png",
+                "width": 665,
+                "height": 1000
+              }
+            }
+          },
+          {
+            "id": "attXpQSiegea9YX0M",
+            "url": "https://dl.airtable.com/9TWD2ZTAaeHiZ7zMAWPg_image.png",
+            "filename": "image.png",
+            "size": 241345,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/RDPX0XdQQdifLrOepNXi_small_image.png",
+                "width": 35,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/Dnb5lBToQlmJU3otQmSd_large_image.png",
+                "width": 433,
+                "height": 443
+              },
+              "full": {
+                "url": "https://dl.airtable.com/9kmlJKbaQNcTJYwiXs0Q_full_image.png",
+                "width": 433,
+                "height": 443
+              }
+            }
+          }
+        ],
+        "Scenes": [
+          "reclJkGYsrDK8mKUi"
+        ],
+        "Type": "NPC",
+        "Description": "Wife of Giovanni DiAngelo.\n\nActually a green hag. ",
+        "Factions": [
+          "rechYQ5m7zN04md8I"
+        ],
+        "Locations": [
+          "recPfEHKfciTY9li9"
+        ],
+        "Strength": 10,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 10,
+        "Initiative": 20,
+        "Current Hitpoints": 82,
+        "Relationship": [
+          "recGmKvv9dxLW9Q38",
+          "recjQm3NU2rBaCF33"
+        ],
+        "Monster": [
+          "receDOObRQcMopHAd"
+        ],
+        "Deceased": true,
+        "Passive Perception": 0,
+        "Strength Modifier": 0,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 0,
+        "Intelligence Modifier": 0,
+        "Charisma Modifier": 0,
+        "Wisdom Modifier": 0,
+        "HPPercent": 100,
+        "AC": [
+          17
+        ],
+        "Monster AC": [
+          17
+        ],
+        "Max HP": [
+          82
+        ],
+        "Monster HP": [
+          82
+        ]
+      },
+      "createdTime": "2018-05-28T09:10:03.000Z"
+    },
+    {
+      "id": "recS3Nc6HhA5v0Ssy",
+      "fields": {
+        "Name": "Lucy",
+        "Images": [
+          {
+            "id": "attapBDu7nTPaztTI",
+            "url": "https://dl.airtable.com/t4FVWjIsS3ypHW0dWefp_image.png",
+            "filename": "image.png",
+            "size": 1154438,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/tsTWqT6zRxibBCl2QCDq_small_image.png",
+                "width": 28,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/FNoTstwQK24nUsjuvzgK_large_image.png",
+                "width": 512,
+                "height": 663
+              },
+              "full": {
+                "url": "https://dl.airtable.com/yQSHbkhOQRqVFEcGC1gr_full_image.png",
+                "width": 1000,
+                "height": 1294
+              }
+            }
+          }
+        ],
+        "Type": "NPC",
+        "Description": "Struck deal with party that 25% of profits go to party for protection.\n\nOwner of Lucy's Lacy Ladies brothel.\n\nShe is a 26 years old female dragonborn soldier.\n\nShe has a crested head and golden eyes.\n\nShe has rough blue scales.\n\nShe stands 207cm (6'9\") tall and has a regular build.\n\nShe has an oblong, slightly sightly face.\n\nShe has slightly long nails.\n\nShe runs everywhere instead of walking. ",
+        "Factions": [
+          "recc4TkexCbewo2SE"
+        ],
+        "Locations": [
+          "recD7X5vYcP6uS8fn",
+          "recjwYp8svQGDKo5j"
+        ],
+        "Related Characters": [
+          "recvwMz7WCuhnuHZs"
+        ],
+        "Strength": 10,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 10,
+        "Relationship": [
+          "recaII9aOrC1dG6t1"
+        ],
+        "Monster": [
+          "recEFSyY0SDWxbElV"
+        ],
+        "Passive Perception": 0,
+        "Strength Modifier": 0,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 0,
+        "Intelligence Modifier": 0,
+        "Charisma Modifier": 0,
+        "Wisdom Modifier": 0,
+        "HPPercent": 0,
+        "AC": [
+          10
+        ],
+        "Monster AC": [
+          10
+        ],
+        "Max HP": [
+          4
+        ],
+        "Monster HP": [
+          4
+        ]
+      },
+      "createdTime": "2018-05-28T17:36:00.000Z"
+    },
+    {
+      "id": "recWmJIFfYiSR9jzF",
+      "fields": {
+        "Name": "Dala Brightbeard",
+        "Images": [
+          {
+            "id": "att4MPkyM5YpU5M0z",
+            "url": "https://dl.airtable.com/jtst4k1MReWbaTMISaCE_camera.jpg",
+            "filename": "2018-05-28 10.46.18.jpg",
+            "size": 51188,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/V8awt6I4TBCFEXB4NJqK_small_2018-05-28%2010.46.18.jpg",
+                "width": 28,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/zHTGtRB7Q8mQeQbQlsxX_large_2018-05-28%2010.46.18.jpg",
+                "width": 512,
+                "height": 662
+              },
+              "full": {
+                "url": "https://dl.airtable.com/JCXnVSkKSJS2j5iOk9Ek_full_2018-05-28%2010.46.18.jpg",
+                "width": 541,
+                "height": 700
+              }
+            }
+          }
+        ],
+        "Type": "NPC",
+        "Description": "Dwarf who works at Harley's Harlot Haven. Also works, reluctantly, for The Claw. Wants to eliminate her competitor, Lucy's Lacy Ladies.\n\nDala Brightbeard is a 221 years old female mountain dwarf fighter.\n\nShe has cropped, curled, black hair and golden eyes.\n\nShe has rough, dirty, gray skin.\n\nShe stands 134cm (4'4\") tall and has a muscular build.\n\nShe has a round, slightly bland face.\n\nShe has a sunken breastbone.",
+        "Factions": [
+          "recHxWofbvS0soFdk",
+          "rechYQ5m7zN04md8I"
+        ],
+        "Locations": [
+          "rec6tFP2AUWKZoqfJ"
+        ],
+        "Strength": 14,
+        "Dexterity": 12,
+        "Constitution": 16,
+        "Intelligence": 12,
+        "Wisdom": 12,
+        "Charisma": 8,
+        "Monster": [
+          "reckAiJu3focCsz6l"
+        ],
+        "Passive Perception": 1,
+        "Strength Modifier": 2,
+        "Dexterity Modifier": 1,
+        "Constitution Modifier": 3,
+        "Intelligence Modifier": 1,
+        "Charisma Modifier": -1,
+        "Wisdom Modifier": 1,
+        "HPPercent": 0,
+        "AC": [
+          15
+        ],
+        "Monster AC": [
+          15
+        ],
+        "Max HP": [
+          65
+        ],
+        "Monster HP": [
+          65
+        ]
+      },
+      "createdTime": "2018-05-28T17:45:56.000Z"
+    },
+    {
+      "id": "reckyYU5Ye9MtUL91",
+      "fields": {
+        "Name": "Narder Lyson",
+        "Images": [
+          {
+            "id": "att8U2UkNbV5XE1dc",
+            "url": "https://dl.airtable.com/qwiUrJ0VTReFzXmzl4tf_7ebc6b96771c01414a10afe197417a5e.png",
+            "filename": "7ebc6b96771c01414a10afe197417a5e.png",
+            "size": 310839,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/ml47fmZ5TaDpD1QaopEw_small_7ebc6b96771c01414a10afe197417a5e.png",
+                "width": 18,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/kaHd7UfpSbyVDYThpuEb_large_7ebc6b96771c01414a10afe197417a5e.png",
+                "width": 460,
+                "height": 900
+              },
+              "full": {
+                "url": "https://dl.airtable.com/HhoM5HD3R46zDya0hAKw_full_7ebc6b96771c01414a10afe197417a5e.png",
+                "width": 460,
+                "height": 900
+              }
+            }
+          }
+        ],
+        "Scenes": [
+          "recDiWSWXPasaAk3q"
+        ],
+        "Type": "NPC",
+        "Description": "Impeccably dressed, looks down nose.",
+        "Factions": [
+          "rechYQ5m7zN04md8I"
+        ],
+        "Locations": [
+          "rec94uEtaSNzDV1yf"
+        ],
+        "Related Characters": [
+          "recM4esQwHMVzTOa6"
+        ],
+        "Strength": 8,
+        "Dexterity": 12,
+        "Constitution": 8,
+        "Intelligence": 16,
+        "Wisdom": 14,
+        "Charisma": 14,
+        "Proficiencies": [
+          "recdJn13fa8jbJUCN"
+        ],
+        "Background": "Lawyer",
+        "Monster": [
+          "recEcanUyJSjWVw8t"
+        ],
+        "Roleplay Mannerisms": "Super pompous speech.",
+        "Passive Perception": 2,
+        "Strength Modifier": -1,
+        "Dexterity Modifier": 1,
+        "Constitution Modifier": -1,
+        "Intelligence Modifier": 3,
+        "Charisma Modifier": 2,
+        "Wisdom Modifier": 2,
+        "HPPercent": 0,
+        "AC": [
+          12
+        ],
+        "Monster AC": [
+          12
+        ],
+        "Max HP": [
+          40
+        ],
+        "Monster HP": [
+          40
+        ]
+      },
+      "createdTime": "2018-05-28T22:00:53.000Z"
+    },
+    {
+      "id": "recQFfh3L9TsUAHzV",
+      "fields": {
+        "Name": "Perrin",
+        "Images": [
+          {
+            "id": "attgypbCEuuqpLwBz",
+            "url": "https://dl.airtable.com/NPoPcTDyQmGgcwLj46w9_image.png",
+            "filename": "image.png",
+            "size": 367054,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/SMfCErnTZyk8K4qi8hse_small_image.png",
+                "width": 32,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/32BfQXDdT2Odc5SmUCQz_large_image.png",
+                "width": 498,
+                "height": 553
+              },
+              "full": {
+                "url": "https://dl.airtable.com/KtQHMStCRvCcQEU96SSt_full_image.png",
+                "width": 498,
+                "height": 553
+              }
+            }
+          }
+        ],
+        "Type": "Player Character",
+        "Factions": [
+          "recQV7tQqTSJj6NIO"
+        ],
+        "Locations": [
+          "recG18R9MqCsAIbIm"
+        ],
+        "Strength": 10,
+        "Dexterity": 10,
+        "Constitution": 10,
+        "Intelligence": 10,
+        "Wisdom": 10,
+        "Charisma": 10,
+        "Spells known": [
+          "recYd4vmzavmYTbst",
+          "recl0JuzWNHQxnwKo",
+          "recKE9p873KXVpSNW",
+          "recifljkzpg12nC1D",
+          "recgl5YaIzVII5tcR",
+          "recEBUihanH9OpHBc",
+          "recriXVXTjZkFH61e",
+          "recAqxbv9SbyA3Vb9",
+          "recpM4zDKkJXXy9zA",
+          "recxYWIL2cigiM1Xu",
+          "rec3dUOCTuXoZlJtW",
+          "recusblaszzJxhYqg",
+          "rectpAskIixp2lOjN",
+          "recQ7YfyCaueyxxZb"
+        ],
+        "Notes": [
+          "recM7IFKYACaE00VO"
+        ],
+        "Campaign": [
+          "Return of Merkarth"
+        ],
+        "Passive Perception": 0,
+        "Strength Modifier": 0,
+        "Dexterity Modifier": 0,
+        "Constitution Modifier": 0,
+        "Intelligence Modifier": 0,
+        "Charisma Modifier": 0,
+        "Wisdom Modifier": 0,
+        "HPPercent": {
+          "specialValue": "NaN"
+        }
+      },
+      "createdTime": "2018-05-30T07:21:06.000Z"
+    }
+  ]
+}

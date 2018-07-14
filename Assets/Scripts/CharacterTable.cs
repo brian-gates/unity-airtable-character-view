@@ -52,19 +52,15 @@ public class CharacterResponse {
 
 public class CharacterTable : MonoBehaviour {
 
-  public int maxRecords = 10;
+  public AirtableConfig airtableConfig;
+
+  public int maxRecords = 20;
   public string view = "Main View";
 
   public delegate void UpdateAction ();
   public static event UpdateAction OnUpdate;
 
   public CharacterResponse response = null;
-  public string bearerToken;
-
-  // Use this for initialization
-  void Start () {
-    LoadData();
-  }
 
   public void LoadData() {
     StartCoroutine (GetData ());
@@ -72,12 +68,14 @@ public class CharacterTable : MonoBehaviour {
 
   public IEnumerator GetData () {
     UnityWebRequest www = UnityWebRequest.Get ("https://api.airtable.com/v0/appQ3dmrqe9MBHoos/Characters?maxRecords=" + maxRecords + "&view=" + view);
-    www.SetRequestHeader ("Authorization", "Bearer " + bearerToken);
+    www.SetRequestHeader ("Authorization", "Bearer " + airtableConfig.token);
     yield return www.Send ();
 
     if (www.isNetworkError || www.isHttpError) {
-      Debug.Log (www.error);
+      Debug.Log("AirtableConfig is not valid");
+      airtableConfig.isValid = false;
     } else {
+      Debug.Log("AirtableConfig is valid");
       Debug.Log (www.downloadHandler.text);
       response = JsonUtility.FromJson<CharacterResponse> (www.downloadHandler.text);
       if (OnUpdate != null) OnUpdate ();
